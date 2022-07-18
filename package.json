@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-db4free.net",
+  "version": "1.0.0",
+  "description": "[Blog](https://blog.logrocket.com/build-rest-api-node-express-mysql/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandiniExathought/nodeJs-db4free.net.git"
+  },
+  "author": "nandini gnanesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandiniExathought/nodeJs-db4free.net/issues"
+  },
+  "homepage": "https://github.com/NandiniExathought/nodeJs-db4free.net#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
